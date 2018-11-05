@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = 'YSDesignAdapter. 用于处理iPhone各机型适配'
 
   s.homepage         = 'https://github.com/yuansirios/YSDesignAdapter'
-  s.author           = { 'yuansirios' => 'yuanxd25114@hsjry.com' }
+  s.author           = { 'yuansirios' => 'yuansir_ios@163.com' }
   s.source           = { :git => 'https://github.com/yuansirios/YSDesignAdapter.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
