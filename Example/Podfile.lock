@@ -1,0 +1,16 @@
+PODS:
+  - YSDesignAdapter (0.0.1)
+
+DEPENDENCIES:
+  - YSDesignAdapter (from `../`)
+
+EXTERNAL SOURCES:
+  YSDesignAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSDesignAdapter: 2205fdd694be26cf65a3a3ca4986e62c4f85de00
+
+PODFILE CHECKSUM: 6d613fe160f7127f8d6c9d630ea455e0ae07dc92
+
+COCOAPODS: 1.2.1

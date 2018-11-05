@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'YSDesignAdapter_Example' do
+  pod 'YSDesignAdapter', :path => '../'
+
+end

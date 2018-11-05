@@ -1,0 +1,6 @@
+framework module YSDesignAdapter {
+  umbrella header "YSDesignAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
