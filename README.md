@@ -10,6 +10,10 @@
 ## Contents
 *   YSDesignAdapter.h
 
+## How do you use it?
+*   YSDesignValue 参数适配
+*   YSFontValue   字体适配
+
 ## Installation
 
 YSDesignAdapter is available through [CocoaPods](https://cocoapods.org). To install
@@ -19,6 +23,8 @@ it, simply add the following line to your Podfile:
 pod 'YSDesignAdapter'
 ```
 
-## Author
+## 总结
 
-yuansirios, yuansir_ios@163.com
+以上均是开发过程的积累，学到哪记到哪
+
+原创文章，转载请注明出处，谢谢！
